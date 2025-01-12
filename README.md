@@ -10,7 +10,7 @@ This project is a simple Text-to-Speech (TTS) web application that allows users 
 - Minimalist and responsive user interface.
 
 ## Live Demo
-[Live Demo]((https://amal-rekshin.github.io/Text_To_Speech/))
+[Live Demo](https://amal-rekshin.github.io/Text_To_Speech/)
 
 ## Getting Started
 
